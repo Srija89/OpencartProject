@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-15T20:12:11 IST" name="OpencartSuite" finished-at="2023-03-15T20:12:24 IST" duration-ms="12901">
+    <groups>
+      <group name="regression">
+        <method signature="Tc_001_AccountRegistration.testcase_Account()[pri:1, instance:Testcases.Tc_001_AccountRegistration@59309333]" name="testcase_Account" class="Testcases.Tc_001_AccountRegistration"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="Tc_001_AccountRegistration.testcase_Account()[pri:1, instance:Testcases.Tc_001_AccountRegistration@59309333]" name="testcase_Account" class="Testcases.Tc_001_AccountRegistration"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2023-03-15T20:12:11 IST" name="AccountTest" finished-at="2023-03-15T20:12:24 IST" duration-ms="12901">
+      <class name="Testcases.Tc_001_AccountRegistration">
+        <test-method is-config="true" signature="launchapp(java.lang.String)[pri:0, instance:Testcases.Tc_001_AccountRegistration@59309333]" started-at="2023-03-15T20:12:11 IST" name="launchapp" finished-at="2023-03-15T20:12:18 IST" duration-ms="6823" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapp -->
+        <test-method signature="testcase_Account()[pri:1, instance:Testcases.Tc_001_AccountRegistration@59309333]" started-at="2023-03-15T20:12:18 IST" name="testcase_Account" finished-at="2023-03-15T20:12:23 IST" duration-ms="5393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_Account -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Testcases.Tc_001_AccountRegistration@59309333]" started-at="2023-03-15T20:12:23 IST" name="tearDown" finished-at="2023-03-15T20:12:24 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Testcases.Tc_001_AccountRegistration -->
+    </test> <!-- AccountTest -->
+  </suite> <!-- OpencartSuite -->
+</testng-results>

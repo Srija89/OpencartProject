@@ -1,0 +1,76 @@
+15:46:10.114 [main] INFO  Testcases.Tc_001_AccountRegistration - ***********homepage executig***********
+15:46:10.773 [main] INFO  Testcases.Tc_001_AccountRegistration - clicked on register
+15:46:10.780 [main] INFO  Testcases.Tc_001_AccountRegistration - entering data
+15:48:46.103 [main] INFO  Testcases.Tc_001_AccountRegistration - ***********homepage executig***********
+15:48:46.789 [main] INFO  Testcases.Tc_001_AccountRegistration - clicked on register
+15:48:46.794 [main] INFO  Testcases.Tc_001_AccountRegistration - entering data
+15:58:11.624 [main] INFO  Testcases.Tc_001_AccountRegistration - ***********homepage executig***********
+15:58:12.389 [main] INFO  Testcases.Tc_001_AccountRegistration - clicked on register
+15:58:12.395 [main] INFO  Testcases.Tc_001_AccountRegistration - entering data
+16:05:10.237 [main] INFO  Testcases.Tc_001_AccountRegistration - ***********homepage executig***********
+16:05:10.853 [main] INFO  Testcases.Tc_001_AccountRegistration - clicked on register
+16:05:10.858 [main] INFO  Testcases.Tc_001_AccountRegistration - entering data
+16:07:16.546 [main] INFO  Testcases.Tc_001_AccountRegistration - ***********homepage executig***********
+16:07:17.491 [main] INFO  Testcases.Tc_001_AccountRegistration - clicked on register
+16:07:17.499 [main] INFO  Testcases.Tc_001_AccountRegistration - entering data
+16:34:44.633 [main] INFO  Testcases.Tc_001_AccountRegistration - ***********homepage executig***********
+16:34:45.312 [main] INFO  Testcases.Tc_001_AccountRegistration - clicked on register
+16:34:45.318 [main] INFO  Testcases.Tc_001_AccountRegistration - entering data
+16:36:03.187 [main] INFO  Testcases.Tc_001_AccountRegistration - ***********homepage executig***********
+16:36:03.863 [main] INFO  Testcases.Tc_001_AccountRegistration - clicked on register
+16:36:03.872 [main] INFO  Testcases.Tc_001_AccountRegistration - entering data
+16:45:02.011 [main] INFO  Testcases.Tc_001_AccountRegistration - ***********homepage executig***********
+16:45:02.684 [main] INFO  Testcases.Tc_001_AccountRegistration - clicked on register
+16:45:02.693 [main] INFO  Testcases.Tc_001_AccountRegistration - entering data
+16:46:11.131 [main] INFO  Testcases.Tc_001_AccountRegistration - ***********homepage executig***********
+16:46:11.892 [main] INFO  Testcases.Tc_001_AccountRegistration - clicked on register
+16:46:11.899 [main] INFO  Testcases.Tc_001_AccountRegistration - entering data
+17:07:42.341 [main] INFO  Testcases.Tc_001_AccountRegistration - ***********homepage executig***********
+17:07:43.013 [main] INFO  Testcases.Tc_001_AccountRegistration - clicked on register
+17:07:43.023 [main] INFO  Testcases.Tc_001_AccountRegistration - entering data
+17:31:32.565 [main] INFO  Testcases.Tc_001_AccountRegistration - ***********homepage executig***********
+17:31:33.260 [main] INFO  Testcases.Tc_001_AccountRegistration - clicked on register
+17:31:33.267 [main] INFO  Testcases.Tc_001_AccountRegistration - entering data
+18:00:19.612 [main] INFO  Testcases.Tc_001_AccountRegistration - ***********homepage executig***********
+18:00:20.397 [main] INFO  Testcases.Tc_001_AccountRegistration - clicked on register
+18:00:20.403 [main] INFO  Testcases.Tc_001_AccountRegistration - entering data
+18:43:23.373 [main] INFO  Testcases.Tc_001_AccountRegistration - ***********homepage executig***********
+18:43:24.118 [main] INFO  Testcases.Tc_001_AccountRegistration - clicked on register
+18:43:24.123 [main] INFO  Testcases.Tc_001_AccountRegistration - entering data
+18:43:27.351 [main] INFO  Testcases.Tc_001_AccountRegistration - validating data
+18:44:53.293 [main] INFO  Testcases.Tc_001_AccountRegistration - ***********homepage executig***********
+18:44:54.078 [main] INFO  Testcases.Tc_001_AccountRegistration - clicked on register
+18:44:54.083 [main] INFO  Testcases.Tc_001_AccountRegistration - entering data
+18:44:57.366 [main] INFO  Testcases.Tc_001_AccountRegistration - validating data
+18:45:45.886 [main] INFO  Testcases.Tc_001_AccountRegistration - ***********homepage executig***********
+18:45:46.549 [main] INFO  Testcases.Tc_001_AccountRegistration - clicked on register
+18:45:46.558 [main] INFO  Testcases.Tc_001_AccountRegistration - entering data
+18:45:49.836 [main] INFO  Testcases.Tc_001_AccountRegistration - validating data
+18:48:18.343 [main] INFO  Testcases.Tc_001_AccountRegistration - ***********homepage executig***********
+18:48:18.964 [main] INFO  Testcases.Tc_001_AccountRegistration - clicked on register
+18:48:18.970 [main] INFO  Testcases.Tc_001_AccountRegistration - entering data
+18:48:22.237 [main] INFO  Testcases.Tc_001_AccountRegistration - validating data
+18:50:51.100 [main] INFO  Testcases.Tc_001_AccountRegistration - ***********homepage executig***********
+18:50:51.999 [main] INFO  Testcases.Tc_001_AccountRegistration - clicked on register
+18:50:52.011 [main] INFO  Testcases.Tc_001_AccountRegistration - entering data
+18:50:55.425 [main] INFO  Testcases.Tc_001_AccountRegistration - validating data
+18:52:31.782 [main] INFO  Testcases.Tc_001_AccountRegistration - ***********homepage executig***********
+18:52:32.461 [main] INFO  Testcases.Tc_001_AccountRegistration - clicked on register
+18:52:32.473 [main] INFO  Testcases.Tc_001_AccountRegistration - entering data
+18:52:35.862 [main] INFO  Testcases.Tc_001_AccountRegistration - validating data
+18:52:35.864 [main] INFO  Testcases.Tc_001_AccountRegistration - ****************executing finished************
+19:32:12.495 [main] INFO  Testcases.Tc_001_AccountRegistration - ***********homepage executing***********
+19:32:13.323 [main] INFO  Testcases.Tc_001_AccountRegistration - clicked on register
+19:32:13.332 [main] INFO  Testcases.Tc_001_AccountRegistration - entering data
+19:32:16.636 [main] INFO  Testcases.Tc_001_AccountRegistration - validating data
+19:32:16.640 [main] INFO  Testcases.Tc_001_AccountRegistration - ****************executing finished************
+19:40:25.715 [main] INFO  Testcases.Tc_001_AccountRegistration - ***********homepage executing***********
+19:40:26.666 [main] INFO  Testcases.Tc_001_AccountRegistration - clicked on register
+19:40:26.674 [main] INFO  Testcases.Tc_001_AccountRegistration - entering data
+19:40:30.014 [main] INFO  Testcases.Tc_001_AccountRegistration - validating data
+19:40:30.016 [main] INFO  Testcases.Tc_001_AccountRegistration - ****************executing finished************
+20:12:18.406 [main] INFO  Testcases.Tc_001_AccountRegistration - ***********homepage executing***********
+20:12:19.619 [main] INFO  Testcases.Tc_001_AccountRegistration - clicked on register
+20:12:19.627 [main] INFO  Testcases.Tc_001_AccountRegistration - entering data
+20:12:23.782 [main] INFO  Testcases.Tc_001_AccountRegistration - validating data
+20:12:23.785 [main] INFO  Testcases.Tc_001_AccountRegistration - ****************executing finished************
